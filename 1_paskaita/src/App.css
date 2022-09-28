@@ -1,0 +1,27 @@
+header img {
+  height: 10%;
+  width: 10%;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+a,
+button {
+  transition: 500ms;
+  cursor: pointer;
+}
+
+.menu-bar {
+  background-color: #0e2433;
+}
+
+.menu-bar a {
+  color: white;
+  background-color: #0e2433;
+  margin: 20px 20px;
+  font-weight: 600;
+  font-size: 30px;
+}
