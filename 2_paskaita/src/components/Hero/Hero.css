@@ -1,0 +1,27 @@
+.red-hero {
+    background-color: #F47174;
+    padding: 40px;
+}
+
+.blue-hero {
+    background-color: #93CAED;
+    padding: 40px;
+}
+
+.green-hero {
+    background-image: url("https://th.bing.com/th/id/R.6cc45d62af305241d6cdf9d84ffdc60d?rik=Kh%2fyunE50cTlBQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fwp1825956.jpg&ehk=rbZBGY4ofPLXJ3av3IAxx4isDKUhA9AmEfNWMwXiufQ%3d&risl=&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    /* background-color: #ACD1AF; */
+    padding: 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+.white-hero {
+    padding: 40px;
+}
